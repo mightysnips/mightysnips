@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhaarmi Sharma</h1>
-<h3 align="center">Aspiring Software Engineer | Future Civil Servant | Microsoft Intern (Soon 😉)</h3>
+<h3 align="center">Aspiring Software Engineer
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fd/56/8b/fd568bdc98e98ec2f6f15b9e61e23e0f.gif" />
 

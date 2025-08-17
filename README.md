@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Flutter, DSA & AI Development**
 - 💬 Ask me about **Web Development, Python, Figma, and GitHub**
 - 👩‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **dhaarmisharma.gbd@gmail.com.com**
 - ⚡ Fun fact: I love combining **tech with impact** and plan to help society with both code and courage.
 
 ---

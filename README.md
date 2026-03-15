@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Engineer | Flutter • Data • AI</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/dharmi">LinkedIn</a> •
+  <a href="(https://www.linkedin.com/in/dhaarmi-sharma/)">LinkedIn</a> •
   <a href="mailto:dhaarmisharma.gbd@gmail.com">Email</a> •
   <a href="https://github.com/mightysnips">GitHub</a>
 </p>

@@ -4,8 +4,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/dhaarmi-sharma/">LinkedIn</a> •
   <a href="mailto:dhaarmisharma.gbd@gmail.com">Email</a> •
-  <a href="https://github.com/mightysnips">GitHub</a>
-  <a href="[https://github.com/mightysnips](https://mightysnips.github.io/my-portfolio/)">Portfolio</a>
+  <a href="https://github.com/mightysnips">GitHub</a> •
+  <a href="https://github.com/mightysnips](https://mightysnips.github.io/my-portfolio/">Portfolio</a>
 </p>
 
 <img align="right" alt="Coding" width="360" src="https://i.pinimg.com/originals/fd/56/8b/fd568bdc98e98ec2f6f15b9e61e23e0f.gif" />
